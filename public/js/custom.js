@@ -186,3 +186,18 @@ $('#drop-down-header-container').mouseout(function(event){
 //   });
 // });
 
+$(document).ready(function() {
+  $('.mobile-menu-wrapper').click(function() {
+      $(this).toggleClass('mobile-menu-active');
+      $('.mobile-menu-content-wrapper').toggleClass('content-active ');
+  });
+
+  $('.mobile-menu').click(function() {
+    $('.mobile-menu-content-wrapper').removeClass('content-active ');
+});
+
+$('.popup-close').click(function() {
+  $('.success-popup-wrapper').removeClass('success-popup-active');
+});
+
+});

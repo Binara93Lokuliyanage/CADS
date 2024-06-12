@@ -11,8 +11,21 @@
             <a href="/events" class="menu-item" id="menu-events">EVENTS</a>
 
         </div>
-        <a href = "/contact" class = "button bg-pink">
+        <a href = "/contact" class = "button bg-pink header-btn">
             Contact
         </a>
+        <div class = "mobile-menu-wrapper">
+            <div class = "mobile-menu-bar"></div>
+            <div class = "mobile-menu-bar"></div>
+            <div class = "mobile-menu-bar"></div>
+        </div>
+    </div>
+    <div class = "mobile-menu-content-wrapper ">
+        <a href="/about" class="menu-item" id="menu-about">ABOUT</a>
+            <a href="/advisory-council" class="menu-item" id="menu-advisory-council">ADVISORY COUNCIL</a>
+            <a href="/programs" class="menu-item" id="menu-programs">PROGRAMS</a>
+            <a href="/staff" class="menu-item" id="menu-staff">STAFF</a>
+            <a href="/events" class="menu-item" id="menu-events">EVENTS</a>
+
     </div>
 </section>
