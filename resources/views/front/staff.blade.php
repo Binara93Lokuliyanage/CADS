@@ -18,21 +18,19 @@
 
         </div>
 
-        <div class = "team-list-wrapper">
+        <div class = "team-list-wrapper" style="display: flex; justify-content: center">
             <div class = "team-list-item">
                 
             </div>
             <div class = "team-list-item">
                 <div class = "team-list-item__image-wrapper">
-                    <img src="{{ asset('images/member.png') }}">
+                    <img src="{{ asset('images/dr-clarke.png') }}">
                 </div>
-                <h3>Executive Director</h3>
-            </div>
-            <div class = "team-list-item">
-                <div class = "team-list-item__image-wrapper">
-                    <img src="{{ asset('images/member.png') }}">
+                <div class = "text-center">
+                    <h3>Executive Director</h3>
+                    <p>Executive Director</p>
+
                 </div>
-                <h3>Administrative Assistant</h3>
             </div>
             <div class = "team-list-item">
                 
@@ -55,27 +53,45 @@
         <div class = "team-list-wrapper">
             <div class = "team-list-item">
                 <div class = "team-list-item__image-wrapper">
-                    <img src="{{ asset('images/member.png') }}">
+                    <img src="{{ asset('images/wayne-solomon.jpg') }}">
                 </div>
-                <h3>Dr. Raymond Burch Jr.</h3>
+                <h3>Dr. Wayne Solomon</h3>
             </div>
             <div class = "team-list-item">
                 <div class = "team-list-item__image-wrapper">
-                    <img src="{{ asset('images/member.png') }}">
+                    <img src="{{ asset('images/arlene-hall.jpg') }}">
                 </div>
-                <h3>Dr. Raymond Burch Jr.</h3>
+                <h3>Dr. Arlene Hall</h3>
             </div>
             <div class = "team-list-item">
                 <div class = "team-list-item__image-wrapper">
-                    <img src="{{ asset('images/member.png') }}">
+                    <img src="{{ asset('images/hugh-bair.png') }}">
                 </div>
-                <h3>Dr. Raymond Burch Jr.</h3>
+                <h3>Dr. Hugh Bair</h3>
             </div>
             <div class = "team-list-item">
                 <div class = "team-list-item__image-wrapper">
-                    <img src="{{ asset('images/member.png') }}">
+                    <img src="{{ asset('images/marcia-clarke.jpeg') }}">
                 </div>
-                <h3>Dr. Raymond Burch Jr.</h3>
+                <h3>Dr. Marcia Clarke</h3>
+            </div>
+            <div class = "team-list-item">
+                <div class = "team-list-item__image-wrapper">
+                    <img src="{{ asset('images/william-turner.jpeg') }}">
+                </div>
+                <h3>Dr. William Turner</h3>
+            </div>
+            <div class = "team-list-item">
+                <div class = "team-list-item__image-wrapper">
+                    <img src="{{ asset('images/kent-shaw.jpeg') }}">
+                </div>
+                <h3>Dr. Kent Shaw</h3>
+            </div>
+            <div class = "team-list-item">
+                <div class = "team-list-item__image-wrapper">
+                    <img src="{{ asset('images/antipas-harris.jpeg') }}">
+                </div>
+                <h3>Dr. Antipas L. Harris</h3>
             </div>
             
             

@@ -11,7 +11,7 @@
             <a href="/events" class="menu-item" id="menu-events">EVENTS</a>
 
         </div>
-        <a a href = "/contact" class = "button bg-pink">
+        <a href = "/contact" class = "button bg-pink">
             Contact
         </a>
     </div>

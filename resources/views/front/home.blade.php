@@ -97,7 +97,7 @@
                 The courses, programs, and initiatives of the Center for African Descent Studies (CADS) are designed to equip, educate, and empower undergraduate, graduate, and non-degree-seeking students to increase their knowledge and appreciation of people of African descent, cultures, and institutions in a local, national,and global context.
             </p>
             <div class = "btn-wrapper">
-                <a class="button ">
+                <a href = "/about" class="button ">
                     READ MORE
                 </a>
             </div>

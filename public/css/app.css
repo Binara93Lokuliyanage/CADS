@@ -678,6 +678,12 @@ p + .heading-wrapper {
   justify-content: center;
   gap: 4rem;
 }
+@media screen and (max-width: 780px) {
+  .vision-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
 
 .vision-circle {
   border-radius: 100%;
@@ -691,6 +697,12 @@ p + .heading-wrapper {
   text-align: center;
   flex-direction: column;
 }
+@media screen and (max-width: 940px) {
+  .vision-circle {
+    width: 380px;
+    height: 380px;
+  }
+}
 
 .values-wrapper {
   display: grid;
@@ -700,6 +712,16 @@ p + .heading-wrapper {
   row-gap: 2.5rem;
   margin-top: 3rem;
   margin-bottom: 3rem;
+}
+@media screen and (max-width: 820px) {
+  .values-wrapper {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media screen and (max-width: 660px) {
+  .values-wrapper {
+    grid-template-columns: 1fr;
+  }
 }
 
 .value-item {
@@ -747,6 +769,16 @@ p + .heading-wrapper {
   gap: 1.5rem;
   margin-top: 3rem;
 }
+@media screen and (max-width: 820px) {
+  .team-list-wrapper {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media screen and (max-width: 660px) {
+  .team-list-wrapper {
+    grid-template-columns: 1fr;
+  }
+}
 
 .team-list-item {
   display: flex;
@@ -787,4 +819,9 @@ input, textarea {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.5rem;
+}
+@media screen and (max-width: 660px) {
+  .grid-two-col {
+    grid-template-columns: 1fr;
+  }
 }

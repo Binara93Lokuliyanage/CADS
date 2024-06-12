@@ -10,7 +10,7 @@
     <div class = "container two-block-container container-with-bg-image">
         <div class = "image-block">
             <div class = "image-block__img-wrapper">
-                <img src="{{ asset('images/img-3.png') }}" alt="Director Image">
+                <img src="{{ asset('images/img-4.png') }}" alt="Director Image">
             </div>
         </div>
         <div class = "text-block">
