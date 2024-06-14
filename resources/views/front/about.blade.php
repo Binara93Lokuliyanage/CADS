@@ -122,22 +122,13 @@
                     </div>
                 </div>
             </div>
-            <p class="text-center max-width">
-                At CADS, these core values are not just principles; they are the foundation of everything we do.
-                Our commitment to academic excellence drives our rigorous curriculum and ensures that our
-                students receive a world-class education. We celebrate diversity and believe that embracing different
-                perspectives enriches our learning community. Leadership is at the heart of our mission, as we
-                empower our students to become influential leaders in their communities. Community engagement
-                is vital to our ethos, as we believe in actively participating in and serving our local and global
-                communities. Guided by the Holy Spirit, we seek to impart wisdom, discernment, and guidance to
-                our students, enabling them to navigate their ministry paths with confidence. Collaboration fuels
-                innovation, and together, we strive to pioneer new approaches and solutions to address the
-                challenges facing African descent communities. Finally, courage is our driving force, empowering us
-                to boldly pursue our mission and effect positive change in the world.
-                Welcome to CADS, where academic excellence meets spiritual empowerment, and where together,
-                we endeavor to make a meaningful impact in the lives of people of African descent around the
-                globe.
-            </p>
+
+            <div class = "btn-wrapper">
+                <div class="button " id = "read-more" style="cursor: pointer">
+                    READ MORE
+                <div>
+            </div>
+            
 
         </div>
     </section>

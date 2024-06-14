@@ -90,7 +90,7 @@
                 (06 Credits)
             </p>
             <ul>
-                <li>Introduction to uld Testament</li>
+                <li>Introduction to old Testament</li>
                     <li> Introduction to New Testament</li>
             </ul>
         </div>
@@ -130,7 +130,7 @@
             </p>
             <ul>
                 <li>Fundraising, Budgeting & Financial Management</li>
-                    <li> Church of God History and Pulity: Black Pentecostal perspectives</li>
+                    <li> Church of God History and Polity: Black Pentecostal perspectives</li>
             </ul>
             <h4 class = "text-primary margin-top">
                 Spring Semester 02 | Session 02

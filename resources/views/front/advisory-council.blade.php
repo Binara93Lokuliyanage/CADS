@@ -21,6 +21,9 @@
             </p>
 
             <div class = "team-list-wrapper">
+                <div class = "team-list-item text-center">
+                    <h3>Dr. Kenneth Hill<br> (Chairman)</h3>
+                </div>
                 <div class = "team-list-item">
                     <h3>Dr. Raymond Burch Jr.</h3>
                 </div>
@@ -35,7 +38,7 @@
                 </div>
 
                 <div class = "team-list-item">
-                    <h3>Bishop William A Lee</h3>
+                    <h3>Bishop William A. Lee</h3>
                 </div>
                 <div class = "team-list-item">
                     <h3>Dr. Xanobia Poitier</h3>
@@ -54,16 +57,10 @@
                     <h3>Bishop Hugh Bair</h3>
                 </div>
                 <div class = "team-list-item">
-                    <h3>Dr. Kenneth Hill</h3>
-                </div>
-                <div class = "team-list-item">
                     <h3>Bishop Lennox Walker</h3>
                 </div>
                 <div class = "team-list-item">
                     <h3>Dr. Hugh Nelson</h3>
-                </div>
-                <div class = "team-list-item">
-                    <h3>Bishop William Lee</h3>
                 </div>
             </div>
 

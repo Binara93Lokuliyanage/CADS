@@ -30,6 +30,8 @@
     });
   });
 
+  
+
   document.addEventListener('DOMContentLoaded', function() {
     // Get the current URL path
     var currentPath = window.location.pathname;
@@ -200,4 +202,13 @@ $('.popup-close').click(function() {
   $('.success-popup-wrapper').removeClass('success-popup-active');
 });
 
+});
+
+$(document).ready(function() {
+  $('#read-more').click(function() {
+      $('.popup-section').toggleClass('popup-active');
+  });
+  $('#close-btn').click(function() {
+    $('.popup-section').toggleClass('popup-active');
+});
 });

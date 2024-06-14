@@ -27,8 +27,9 @@
                     <img src="{{ asset('images/dr-clarke.png') }}">
                 </div>
                 <div class = "text-center">
-                    <h3>Executive Director</h3>
-                    <p>Executive Director</p>
+                    <h3>Dr. Clifton R. Clarke
+                        (PhD)<br>Executive Director</h3>
+                    <p>African Descent Studies and Theology</p>
 
                 </div>
             </div>
@@ -56,7 +57,7 @@
                     <img src="{{ asset('images/dr-clarke.png') }}">
                 </div>
                 <h3 class = "text-center">Dr. Clifton R. Clarke<br>(PhD)</h3>
-                <p class = "text-center" style = "margin-top: -15px">African Descent Studies and theology<br>
+                <p class = "text-center" style = "margin-top: -15px">African Descent Studies and Theology<br>
                 </p>
             </div>
             <div class = "team-list-item">
@@ -79,13 +80,13 @@
                     <img src="{{ asset('images/hugh-bair.png') }}">
                 </div>
                 <h3 class = "text-center">Dr. Hugh Bair<br>(MDiv, DMin, PhD)</h3>
-                <p class = "text-center" style = "margin-top: -15px">Pastoral Care and Counseling<br>Theology</p>
+                <p class = "text-center" style = "margin-top: -15px">Pastoral Care and Counseling and Theology</p>
             </div>
             <div class = "team-list-item">
                 <div class = "team-list-item__image-wrapper">
                     <img src="{{ asset('images/marcia-clarke.jpeg') }}">
                 </div>
-                <h3 class = "text-center">Dr. Marcia Clarke<br>(BRd, MEd, MA, PhD)</h3>
+                <h3 class = "text-center">Dr. Marcia Clarke<br>(B.Ed, MEd, MA, PhD)</h3>
                 <p class = "text-center" style = "margin-top: -15px">Practical Theology, Pentecostal Studies</p>
             </div>
             <div class = "team-list-item">
@@ -99,7 +100,7 @@
                 <div class = "team-list-item__image-wrapper">
                     <img src="{{ asset('images/kent-shaw.jpeg') }}">
                 </div>
-                <h3 class = "text-center">Dr. Kent Michael Shaw <br> (I, B.S, M.A, Ph.D)</h3>
+                <h3 class = "text-center">Dr. Kent Michael Shaw I<br> (B.S, M.A, Ph.D)</h3>
                 <p class = "text-center" style = "margin-top: -15px">
                     Missiology and Practical Theology<br>
                     African American and African Missions Theology<br>
