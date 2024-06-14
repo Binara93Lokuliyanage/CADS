@@ -33,9 +33,6 @@
                 <div class = "team-list-item">
                     <h3>Dr. Mark Williams</h3>
                 </div>
-                <div class = "team-list-item">
-                    <h3>Dr. Raymond Burch</h3>
-                </div>
 
                 <div class = "team-list-item">
                     <h3>Bishop William A Lee</h3>
@@ -54,7 +51,7 @@
                 </div>
 
                 <div class = "team-list-item">
-                    <h3>Bishop Huge Bair</h3>
+                    <h3>Bishop Hugh Bair</h3>
                 </div>
                 <div class = "team-list-item">
                     <h3>Dr. Kenneth Hill</h3>

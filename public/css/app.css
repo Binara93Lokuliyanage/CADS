@@ -847,7 +847,7 @@ p + .heading-wrapper {
 
 .team-list-item {
   display: flex;
-  justify-content: center;
+  justify-content: top;
   align-items: center;
   flex-direction: column;
   gap: 1.5rem;
@@ -889,4 +889,18 @@ input, textarea {
   .grid-two-col {
     grid-template-columns: 1fr;
   }
+}
+
+.course-content-wrapper p {
+  margin: 0;
+}
+.course-content-wrapper h4 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.25em;
+  font-family: "Inria Sans", sans-serif;
+}
+.course-content-wrapper h4:nth-child(1) {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
 }
