@@ -122,6 +122,28 @@
             
         </div>
             
+       
+
+    </div>
+    <div class = "container section-padding-top">
+        <div class = "heading-wrapper text-center">
+            <h1 class = "main-heading text-primary">
+                CADS Liaisons
+            </h1>
+
+        </div>
+        <div class = "team-list-wrapper">
+            <div class = "team-list-item">
+                <div class = "team-list-item__image-wrapper">
+                    <img src="{{ asset('images/dr-clarke.png') }}">
+                </div>
+                <h3 class = "text-center">Dr. Clifton R. Clarke<br>(PhD)</h3>
+                <p class = "text-center" style = "margin-top: -15px">African Descent Studies and Theology<br>
+                </p>
+            </div>
+           
+        </div>
+
 
     </div>
 </section>

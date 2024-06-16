@@ -9,6 +9,7 @@
             <a href="/programs" class="menu-item" id="menu-programs">PROGRAMS</a>
             <a href="/staff" class="menu-item" id="menu-staff">STAFF</a>
             <a href="/events" class="menu-item" id="menu-events">EVENTS</a>
+            <a href="https://www.ptseminary.edu/" class="menu-item text-primary" id="menu-events" >Back To PTS</a>
 
         </div>
         <a href = "/contact" class = "button bg-pink header-btn">

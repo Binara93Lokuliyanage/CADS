@@ -925,17 +925,19 @@ input, textarea {
 
 .pop-up-container {
   width: 80%;
-  max-width: 600px;
+  max-width: 800px;
   padding: 48px;
   background-color: var(--white);
   position: relative;
+  max-height: 80vh;
+  overflow: auto;
 }
 
 .close-wrapper {
   width: 100%;
   display: flex;
   justify-content: flex-end;
-  position: absolute;
+  position: sticky;
   top: 24px;
   right: 24px;
 }

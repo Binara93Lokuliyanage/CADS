@@ -90,7 +90,7 @@
                 (06 Credits)
             </p>
             <ul>
-                <li>Introduction to old Testament</li>
+                <li>Introduction to Old Testament</li>
                     <li> Introduction to New Testament</li>
             </ul>
         </div>
